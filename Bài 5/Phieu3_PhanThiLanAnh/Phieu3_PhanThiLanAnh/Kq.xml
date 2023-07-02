@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="KetQua.xslt"?>
+<DS>
+	<MonHoc MaSV="sv1">
+		<MaMH>THDC</MaMH>
+		<TenMH>Tin học đại cương</TenMH>
+		<DiemThi>8</DiemThi>
+	</MonHoc>
+	<MonHoc MaSV="sv1">
+		<MaMH>THVP</MaMH>
+		<TenMH>Tin học văn phòng</TenMH>
+		<DiemThi>9.5</DiemThi>
+	</MonHoc>
+	<MonHoc MaSV="sv2">
+		<MaMH>THDC</MaMH>
+		<TenMH>Tin học đại cương</TenMH>
+		<DiemThi>5.5</DiemThi>
+	</MonHoc>
+	<MonHoc MaSV="sv2">
+		<MaMH>THVP</MaMH>
+		<TenMH>Tin học văn phòng</TenMH>
+		<DiemThi>10</DiemThi>
+	</MonHoc>
+	<MonHoc MaSV="sv3">
+		<MaMH>THDC</MaMH>
+		<TenMH>Tin học đại cương</TenMH>
+		<DiemThi>9</DiemThi>
+	</MonHoc>
+	<MonHoc MaSV="sv3">
+		<MaMH>THVP</MaMH>
+		<TenMH>Tin học văn phòng</TenMH>
+		<DiemThi>4.5</DiemThi>
+	</MonHoc>
+</DS>

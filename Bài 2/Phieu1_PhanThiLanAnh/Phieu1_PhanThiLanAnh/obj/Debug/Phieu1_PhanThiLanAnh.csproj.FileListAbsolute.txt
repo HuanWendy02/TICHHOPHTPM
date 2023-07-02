@@ -1,0 +1,9 @@
+D:\Tích hợp hệ thống phần mềm\Bài 2\Phieu1_PhanThiLanAnh\Phieu1_PhanThiLanAnh\bin\Debug\Phieu1_PhanThiLanAnh.exe.config
+D:\Tích hợp hệ thống phần mềm\Bài 2\Phieu1_PhanThiLanAnh\Phieu1_PhanThiLanAnh\bin\Debug\Phieu1_PhanThiLanAnh.exe
+D:\Tích hợp hệ thống phần mềm\Bài 2\Phieu1_PhanThiLanAnh\Phieu1_PhanThiLanAnh\bin\Debug\Phieu1_PhanThiLanAnh.pdb
+D:\Tích hợp hệ thống phần mềm\Bài 2\Phieu1_PhanThiLanAnh\Phieu1_PhanThiLanAnh\obj\Debug\Phieu1_PhanThiLanAnh.csproj.AssemblyReference.cache
+D:\Tích hợp hệ thống phần mềm\Bài 2\Phieu1_PhanThiLanAnh\Phieu1_PhanThiLanAnh\obj\Debug\Phieu1_PhanThiLanAnh.Properties.Resources.resources
+D:\Tích hợp hệ thống phần mềm\Bài 2\Phieu1_PhanThiLanAnh\Phieu1_PhanThiLanAnh\obj\Debug\Phieu1_PhanThiLanAnh.csproj.GenerateResource.cache
+D:\Tích hợp hệ thống phần mềm\Bài 2\Phieu1_PhanThiLanAnh\Phieu1_PhanThiLanAnh\obj\Debug\Phieu1_PhanThiLanAnh.csproj.CoreCompileInputs.cache
+D:\Tích hợp hệ thống phần mềm\Bài 2\Phieu1_PhanThiLanAnh\Phieu1_PhanThiLanAnh\obj\Debug\Phieu1_PhanThiLanAnh.exe
+D:\Tích hợp hệ thống phần mềm\Bài 2\Phieu1_PhanThiLanAnh\Phieu1_PhanThiLanAnh\obj\Debug\Phieu1_PhanThiLanAnh.pdb

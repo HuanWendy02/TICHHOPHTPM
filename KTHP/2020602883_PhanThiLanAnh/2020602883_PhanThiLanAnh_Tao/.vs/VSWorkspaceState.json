@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\App_Data",
+    "\\App_Start",
+    "\\Controllers",
+    "\\Models",
+    "\\obj",
+    "\\Properties"
+  ],
+  "SelectedNode": "\\Controllers\\NhanVienController.cs",
+  "PreviewInSolutionExplorer": false
+}

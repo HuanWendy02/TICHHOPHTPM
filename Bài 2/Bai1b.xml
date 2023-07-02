@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kqht>
+	<namhoc nam="2009">
+		<lop malop="ktpm-k9" gvcn="Linh">
+			<sv>
+				<info>
+					<hoten>Nguyễn Việt Đức</hoten>
+					<ngaysinh>03/05/1997</ngaysinh>
+				</info>
+				<Monhoc TenMon="Toán" stt="1">
+					<Lan1>5</Lan1>
+					<Lan2>6</Lan2>
+					<CaNam>8</CaNam>
+				</Monhoc>
+				<Monhoc Tenmon ="Văn" stt="2"></Monhoc>
+				<Lan1>7</Lan1>
+				<Lan2>8</Lan2>
+				<CaNam>4</CaNam>
+				<Monhoc Tenmon ="Ngoại ngữ" stt="3"></Monhoc>
+				<Lan1>3</Lan1>
+				<Lan2>5</Lan2>
+				<CaNam>5</CaNam>
+				<Monhoc Tenmon ="Sử" stt="4"></Monhoc>
+				<Lan1>2</Lan1>
+				<Lan2>5</Lan2>
+				<CaNam>3</CaNam>
+				<Monhoc Tenmon ="Sinh" stt="5"></Monhoc>
+				<Lan1>8</Lan1>
+				<Lan2>8</Lan2>
+				<CaNam>4</CaNam>
+				<Monhoc Tenmon ="Tổng kết" stt="6"></Monhoc>
+				<Lan1>6</Lan1>
+				<Lan2>7</Lan2>
+				<CaNam>7</CaNam>
+				<xeploai>
+					<HocLuc>TB</HocLuc>
+					<HanhKiem>Kha</HanhKiem>
+				</xeploai>
+			</sv>
+		</lop>
+	</namhoc>
+</kqht>

@@ -1,0 +1,9 @@
+D:\PhanThiLanAnh_883\Vidu\bin\Debug\Vidu.exe.config
+D:\PhanThiLanAnh_883\Vidu\bin\Debug\Vidu.exe
+D:\PhanThiLanAnh_883\Vidu\bin\Debug\Vidu.pdb
+D:\PhanThiLanAnh_883\Vidu\obj\Debug\Vidu.csproj.AssemblyReference.cache
+D:\PhanThiLanAnh_883\Vidu\obj\Debug\Vidu.Properties.Resources.resources
+D:\PhanThiLanAnh_883\Vidu\obj\Debug\Vidu.csproj.GenerateResource.cache
+D:\PhanThiLanAnh_883\Vidu\obj\Debug\Vidu.csproj.CoreCompileInputs.cache
+D:\PhanThiLanAnh_883\Vidu\obj\Debug\Vidu.exe
+D:\PhanThiLanAnh_883\Vidu\obj\Debug\Vidu.pdb

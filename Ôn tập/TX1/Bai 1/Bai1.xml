@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="Bai1.xslt"?>
+<DS xmlns="http://tempuri.org/Bai1.xsd">
+	<KQHT>
+		<SV MaSV="09121111">
+			<HoTen>Nguyễn Việt Đức</HoTen>
+			<NgaySinh>1997-03-05</NgaySinh>
+			<Lop>KTPM5-K9</Lop>
+		</SV>
+		<MH>
+			<MonHoc>Toán</MonHoc>
+			<Lan1>5</Lan1>
+			<Lan2>6</Lan2>
+			<CaNam>8</CaNam>
+		</MH>
+		<MH>
+			<MonHoc>Văn</MonHoc>
+			<Lan1>7</Lan1>
+			<Lan2>8</Lan2>
+			<CaNam>4</CaNam>
+		</MH>
+		<MH>
+			<MonHoc>Ngoại ngữ</MonHoc>
+			<Lan1>3</Lan1>
+			<Lan2>5</Lan2>
+			<CaNam>5</CaNam>
+		</MH>
+		<MH>
+			<MonHoc>Sử</MonHoc>
+			<Lan1>2</Lan1>
+			<Lan2>5</Lan2>
+			<CaNam>3</CaNam>
+		</MH>
+		<MH>
+			<MonHoc>Sinh</MonHoc>
+			<Lan1>8</Lan1>
+			<Lan2>8</Lan2>
+			<CaNam>4</CaNam>
+		</MH>
+		<MH>
+			<MonHoc>Tổng kết</MonHoc>
+			<Lan1>6</Lan1>
+			<Lan2>7</Lan2>
+			<CaNam>7</CaNam>
+		</MH>
+		<KQ>
+			<XepLoaiHL>Trung bình</XepLoaiHL>
+			<XepLoaiHK>Khá</XepLoaiHK>
+		</KQ>
+		<GVCN>Trần Mai Linh</GVCN>
+	</KQHT>
+	<KQHT>
+		<SV MaSV="09121112">
+			<HoTen>Phan Thị Lan Anh</HoTen>
+			<NgaySinh>2002-08-04</NgaySinh>
+			<Lop>HTTT1-K15</Lop>
+		</SV>
+		<MH>
+			<MonHoc>Toán</MonHoc>
+			<Lan1>5</Lan1>
+			<Lan2>6</Lan2>
+			<CaNam>8</CaNam>
+		</MH>
+		<MH>
+			<MonHoc>Văn</MonHoc>
+			<Lan1>7</Lan1>
+			<Lan2>8</Lan2>
+			<CaNam>4</CaNam>
+		</MH>
+		<MH>
+			<MonHoc>Ngoại ngữ</MonHoc>
+			<Lan1>3</Lan1>
+			<Lan2>5</Lan2>
+			<CaNam>5</CaNam>
+		</MH>
+		<MH>
+			<MonHoc>Sử</MonHoc>
+			<Lan1>2</Lan1>
+			<Lan2>5</Lan2>
+			<CaNam>3</CaNam>
+		</MH>
+		<MH>
+			<MonHoc>Sinh</MonHoc>
+			<Lan1>8</Lan1>
+			<Lan2>8</Lan2>
+			<CaNam>4</CaNam>
+		</MH>
+		<MH>
+			<MonHoc>Tổng kết</MonHoc>
+			<Lan1>6</Lan1>
+			<Lan2>7</Lan2>
+			<CaNam>7</CaNam>
+		</MH>
+		<KQ>
+			<XepLoaiHL>Khá</XepLoaiHL>
+			<XepLoaiHK>Giỏi</XepLoaiHK>
+		</KQ>
+		<GVCN>Đặng Thị Nhung</GVCN>
+	</KQHT>
+</DS>

@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="Danhsach.xslt"?>
+<DS xmlns="http://tempuri.org/Danhsach.xsd">
+	<congty tenCT="Công ty dược Nam Hà">
+		<donvi madv="a01">
+			<tendv>Phòng tổ chức</tendv>
+			<dienthoai>0393548963</dienthoai>
+			<nhanvien>
+				<manv>tc01</manv>
+				<hoten>Phan Lan Anh</hoten>
+				<ngaysinh>2002-08-04</ngaysinh>
+				<gioitinh>Nữ</gioitinh>
+				<ngaycong>15</ngaycong>
+			</nhanvien>
+			<nhanvien>
+				<manv>tc02</manv>
+				<hoten>Phan Anh Hoàng</hoten>
+				<ngaysinh>2000-05-04</ngaysinh>
+				<gioitinh>Nam</gioitinh>
+				<ngaycong>12</ngaycong>
+			</nhanvien>
+		</donvi>
+		<donvi madv="a02">
+			<tendv>Phòng tổ chức</tendv>
+			<dienthoai>0393548963</dienthoai>
+			<nhanvien>
+				<manv>kd01</manv>
+				<hoten>Nguyễn Tuấn Anh</hoten>
+				<ngaysinh>1988-08-04</ngaysinh>
+				<gioitinh>Nam</gioitinh>
+				<ngaycong>22</ngaycong>
+			</nhanvien>
+			<nhanvien>
+				<manv>kd02</manv>
+				<hoten>Lê Minh Hoàng</hoten>
+				<ngaysinh>1998-05-12</ngaysinh>
+				<gioitinh>Nam</gioitinh>
+				<ngaycong>20</ngaycong>
+			</nhanvien>
+		</donvi>
+	</congty>
+	<congty tenCT="Công ty dược Hải Hà">
+		<donvi madv="a03">
+			<tendv>Phòng kinh doanh</tendv>
+			<dienthoai>0393548963</dienthoai>
+			<nhanvien>
+				<manv>tc01</manv>
+				<hoten>Phan Lan Anh</hoten>
+				<ngaysinh>2002-08-04</ngaysinh>
+				<gioitinh>Nữ</gioitinh>
+				<ngaycong>15</ngaycong>
+			</nhanvien>
+			<nhanvien>
+				<manv>tc02</manv>
+				<hoten>Phan Anh Hoàng</hoten>
+				<ngaysinh>2000-05-04</ngaysinh>
+				<gioitinh>Nam</gioitinh>
+				<ngaycong>12</ngaycong>
+			</nhanvien>
+		</donvi>
+		<donvi madv="a04">
+			<tendv>Phòng kinh doanh</tendv>
+			<dienthoai>0393548963</dienthoai>
+			<nhanvien>
+				<manv>kd01</manv>
+				<hoten>Nguyễn Tuấn Anh</hoten>
+				<ngaysinh>1988-08-04</ngaysinh>
+				<gioitinh>Nam</gioitinh>
+				<ngaycong>22</ngaycong>
+			</nhanvien>
+			<nhanvien>
+				<manv>kd02</manv>
+				<hoten>Lê Minh Hoàng</hoten>
+				<ngaysinh>1998-05-12</ngaysinh>
+				<gioitinh>Nam</gioitinh>
+				<ngaycong>20</ngaycong>
+			</nhanvien>
+		</donvi>
+	</congty>
+</DS>

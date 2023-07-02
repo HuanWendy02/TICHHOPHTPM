@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ds>
+  <nhanvien manv="nv01">
+    <hoten>Trần Văn Hùng</hoten>
+    <diachi>27 Hàng Bài, Hà Nội</diachi>
+  </nhanvien>
+  <nhanvien manv="nv02">
+    <hoten>Lê Thu Hà</hoten>
+    <diachi>246 Bà Triệu, Hà Nội</diachi>
+  </nhanvien>
+  <nhanvien manv="nv03">
+    <hoten>Nguyễn Văn An</hoten>
+    <diachi>123A Lê Duẩn, Hà Nội</diachi>
+  </nhanvien>
+  <nhanvien manv="nv04">
+    <hoten>Phan Lan Anh</hoten>
+    <diachi>Kiến Xương, Thái Bình</diachi>
+  </nhanvien>
+</ds>

@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="HoaDon.xslt"?>
+<DS xmlns="http://tempuri.org/HoaDon.xsd">
+	<HoaDon>
+		<MaHD>HD1</MaHD>
+		<NgayBan>2015-11-09</NgayBan>
+		<LoaiHang MaLoai="A" TenLoai="Điện tử">
+			<Hang MaHang="101010">
+				<TenHang>Ti vi</TenHang>
+				<SoLuong>60</SoLuong>
+				<DonViTinh>Chiếc</DonViTinh>
+				<DonGia>6000000</DonGia>
+			</Hang>
+			<Hang MaHang="101011">
+				<TenHang>Tủ lạnh</TenHang>
+				<SoLuong>45</SoLuong>
+				<DonViTinh>Chiếc</DonViTinh>
+				<DonGia>4500000</DonGia>
+			</Hang>
+			<Hang MaHang="101012">
+				<TenHang>Quạt</TenHang>
+				<SoLuong>20</SoLuong>
+				<DonViTinh>Chiếc</DonViTinh>
+				<DonGia>1500000</DonGia>
+			</Hang>
+		</LoaiHang>
+		<LoaiHang MaLoai="B" TenLoai="Gia dụng">
+			<Hang MaHang="101010">
+				<TenHang>Nồi</TenHang>
+				<SoLuong>60</SoLuong>
+				<DonViTinh>Chiếc</DonViTinh>
+				<DonGia>6000000</DonGia>
+			</Hang>
+			<Hang MaHang="101011">
+				<TenHang>Chảo</TenHang>
+				<SoLuong>45</SoLuong>
+				<DonViTinh>Chiếc</DonViTinh>
+				<DonGia>4500000</DonGia>
+			</Hang>
+			<Hang MaHang="101012">
+				<TenHang>Bình nước</TenHang>
+				<SoLuong>20</SoLuong>
+				<DonViTinh>Chiếc</DonViTinh>
+				<DonGia>1500000</DonGia>
+			</Hang>
+		</LoaiHang>
+	</HoaDon>
+	<HoaDon>
+		<MaHD>HD2</MaHD>
+		<NgayBan>2015-10-11</NgayBan>
+		<LoaiHang MaLoai="D" TenLoai="Gia dụng">
+			<Hang MaHang="101010">
+				<TenHang>Nồi</TenHang>
+				<SoLuong>60</SoLuong>
+				<DonViTinh>Chiếc</DonViTinh>
+				<DonGia>6000000</DonGia>
+			</Hang>
+			<Hang MaHang="101011">
+				<TenHang>Chảo</TenHang>
+				<SoLuong>45</SoLuong>
+				<DonViTinh>Chiếc</DonViTinh>
+				<DonGia>4500000</DonGia>
+			</Hang>
+			<Hang MaHang="101012">
+				<TenHang>Bình nước</TenHang>
+				<SoLuong>20</SoLuong>
+				<DonViTinh>Chiếc</DonViTinh>
+				<DonGia>1500000</DonGia>
+			</Hang>
+		</LoaiHang>
+		<LoaiHang MaLoai="C" TenLoai="Điện tử">
+			<Hang MaHang="101010">
+				<TenHang>Ti vi</TenHang>
+				<SoLuong>60</SoLuong>
+				<DonViTinh>Chiếc</DonViTinh>
+				<DonGia>6000000</DonGia>
+			</Hang>
+			<Hang MaHang="101011">
+				<TenHang>Tủ lạnh</TenHang>
+				<SoLuong>45</SoLuong>
+				<DonViTinh>Chiếc</DonViTinh>
+				<DonGia>4500000</DonGia>
+			</Hang>
+			<Hang MaHang="101012">
+				<TenHang>Quạt</TenHang>
+				<SoLuong>20</SoLuong>
+				<DonViTinh>Chiếc</DonViTinh>
+				<DonGia>1500000</DonGia>
+			</Hang>
+		</LoaiHang>
+	</HoaDon>
+</DS>

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="BenhAn"
+    targetNamespace="http://tempuri.org/BenhAn.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/BenhAn.xsd"
+    xmlns:mstns="http://tempuri.org/BenhAn.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+	<xs:element name="QLBA">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Khoa" maxOccurs="10">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="TenKhoa" type="xs:string"/>
+							<xs:element name="BenhNhan" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="HoTen" type="xs:string"/>
+										<xs:element name="GioiTinh">
+											<xs:simpleType>
+												<xs:restriction base="xs:string">
+													<xs:enumeration value="Nam"/>
+													<xs:enumeration value="Nữ"/>
+												</xs:restriction>
+											</xs:simpleType>
+										</xs:element>
+										<xs:element name="SoNgayNamVien" type="xs:integer"/>
+									</xs:sequence>
+									<xs:attribute name="MaSo" use="required">
+										<xs:simpleType>
+											<xs:restriction base="xs:ID">
+												<xs:pattern value="\d{2}"/>
+											</xs:restriction>
+										</xs:simpleType>
+									</xs:attribute>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+						<xs:attribute name="ID">
+							<xs:simpleType>
+								<xs:restriction base="xs:ID">
+									<xs:pattern value="[a-zA-Z]\d{2}"/>
+								</xs:restriction>
+							</xs:simpleType>
+						</xs:attribute>
+						<xs:attribute name="TruongKhoa" type="xs:string" use="required"></xs:attribute>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

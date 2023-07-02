@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Bai1"
+    targetNamespace="http://tempuri.org/Bai1.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/Bai1.xsd"
+    xmlns:mstns="http://tempuri.org/Bai1.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+	<xs:element name="DS">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="KQHT" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="SV">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="HoTen" type="xs:string"></xs:element>
+										<xs:element name="NgaySinh" type="xs:date"></xs:element>
+										<xs:element name="Lop" type="xs:string"></xs:element>
+									</xs:sequence>
+									<xs:attribute name="MaSV">
+										<xs:simpleType>
+											<xs:restriction base="xs:integer">
+												<xs:pattern value="\d{8}"/>
+											</xs:restriction>
+										</xs:simpleType>
+									</xs:attribute>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="MH" minOccurs="3" maxOccurs="6">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="MonHoc" type="xs:string"/>
+										<xs:element name="Lan1">
+											<xs:simpleType>
+												<xs:restriction base="xs:double">
+													<xs:minInclusive value="0"/>
+													<xs:maxInclusive value="10"/>
+												</xs:restriction>
+											</xs:simpleType>
+										</xs:element>
+										<xs:element name="Lan2">
+											<xs:simpleType>
+												<xs:restriction base="xs:double">
+													<xs:minInclusive value="0"/>
+													<xs:maxInclusive value="10"/>
+												</xs:restriction>
+											</xs:simpleType>
+										</xs:element>
+										<xs:element name="CaNam">
+											<xs:simpleType>
+												<xs:restriction base="xs:double">
+													<xs:minInclusive value="0"/>
+													<xs:maxInclusive value="10"/>
+												</xs:restriction>
+											</xs:simpleType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="KQ">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="XepLoaiHL">
+											<xs:simpleType>
+												<xs:restriction base="xs:string">
+													<xs:enumeration value="Trung bình"/>
+													<xs:enumeration value="Khá"/>
+													<xs:enumeration value="Giỏi"/>
+													<xs:enumeration value="Yếu"/>
+												</xs:restriction>
+											</xs:simpleType>
+										</xs:element>
+										<xs:element name="XepLoaiHK">
+											<xs:simpleType>
+												<xs:restriction base="xs:string">
+													<xs:enumeration value="Trung bình"/>
+													<xs:enumeration value="Khá"/>
+													<xs:enumeration value="Giỏi"/>
+													<xs:enumeration value="Yếu"/>
+												</xs:restriction>
+											</xs:simpleType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="GVCN">
+								<xs:simpleType>
+									<xs:restriction base="xs:string">
+										<xs:enumeration value="Trần Mai Linh"/>
+										<xs:enumeration value="Đặng Thị Nhung"/>
+									</xs:restriction>
+								</xs:simpleType>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

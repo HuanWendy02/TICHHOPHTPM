@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Bai1"
+    targetNamespace="http://tempuri.org/Bai1.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/Bai1.xsd"
+    xmlns:mstns="http://tempuri.org/Bai1.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+	<!-- Ràng buộc cho họ tên, quê quán-->
+	<xs:simpleType name="htType">
+		<xs:restriction base="xs:string">
+			<xs:maxLength value="50"></xs:maxLength>
+			<xs:minLength value="2"></xs:minLength>
+		</xs:restriction>
+	</xs:simpleType>
+	<!--Ràng buộc cho trình độ-->
+	<xs:simpleType name="tdType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Đại học"></xs:enumeration>
+			<xs:enumeration value="Cao đẳng"></xs:enumeration>
+		</xs:restriction>
+	</xs:simpleType>
+	<!--Ràng buộc cho giới tính-->
+	<xs:simpleType name="gtType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Nam"></xs:enumeration>
+			<xs:enumeration value="Nữ"></xs:enumeration>
+		</xs:restriction>
+	</xs:simpleType>
+	<!--Ràng buộc cho ngày sinh-->
+	<xs:simpleType name="nsType">
+		<xs:restriction base="xs:date">
+			<xs:minExclusive value="1995-01-01"></xs:minExclusive>
+			<xs:maxExclusive value="1998-12-30"></xs:maxExclusive>
+		</xs:restriction>
+	</xs:simpleType>
+	<!--Ràng buộc cho hệ số điểm tổng kết-->
+	<xs:simpleType name="hsType">
+		<xs:restriction base="xs:decimal">
+			<xs:fractionDigits value="2"></xs:fractionDigits>
+		</xs:restriction>
+	</xs:simpleType>
+	<!--Ràng buộc cho mã nv các chữ cái và chữ số và 10 ký tự-->
+	<xs:simpleType name="maType">
+		<xs:restriction base="xs:string">
+			<xs:pattern value="[a-zA-Z0-9]{10}"></xs:pattern>
+		</xs:restriction>
+	</xs:simpleType>
+	<!--Sử dụng các kiểu Type vừa định nghĩa-->
+	<xs:complexType name="svType">
+		<xs:sequence>
+			<xs:element name="Hoten" type="htType"></xs:element>
+			<xs:element name="NgaySinh" type="nsType"></xs:element>
+			<xs:element name="GioiTinh" type="gtType"></xs:element>
+			<xs:element name="Que" type="htType"></xs:element>
+			<xs:element name="TrinhDo" type="tdType"></xs:element>
+			<xs:element name="HSD" type="hsType"></xs:element>
+		</xs:sequence>
+		<xs:attribute name="masv" type="maType" use="required"></xs:attribute>
+	</xs:complexType>
+	<xs:complexType name="SinhvienType">
+		<xs:sequence>
+			<xs:element name="Sinhvien" type="mstns:svType" minOccurs="0" maxOccurs="unbounded"></xs:element>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:element name="QLSV" type="mstns:SinhvienType"></xs:element>
+</xs:schema>

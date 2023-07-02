@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<company xmlns="http://tempuri.org/Bai2.xsd">
+	<employee id="E01" gender="male">
+		<name>Phan Thi Lan Anh</name>
+		<userid>Anhanh</userid>
+		<phone>0123456789</phone>
+		<salary>1500</salary>
+		<address>Ha Noi, Hai Phong, Quang Ninh</address>
+	</employee>
+	<employee id="E02" gender="male">
+		<name>Phan Thi Lan Anh</name>
+		<userid>Anhanh</userid>
+		<phone>0123456789</phone>
+		<salary>1500</salary>
+		<address>Ha Noi, Hai Phong, Quang Ninh</address>
+	</employee>
+	<employee id="E03" gender="male">
+		<name>Phan Thi Lan Anh</name>
+		<userid>Anhanh</userid>
+		<phone>0123456789</phone>
+		<salary>1500</salary>
+		<address>Ha Noi, Hai Phong, Quang Ninh</address>
+	</employee>
+	<employee id="E04" gender="male">
+		<name>Phan Thi Lan Anh</name>
+		<userid>Anhanh</userid>
+		<phone>0123456789</phone>
+		<salary>1500</salary>
+		<address>Ha Noi, Hai Phong, Quang Ninh</address>
+	</employee>
+	<employee id="E05" gender="male">
+		<name>Phan Thi Lan Anh</name>
+		<userid>Anhanh</userid>
+		<phone>0123456789</phone>
+		<salary>1500</salary>
+		<address>Ha Noi, Hai Phong, Quang Ninh</address>
+	</employee>
+	<employee id="E06" gender="male">
+		<name>Phan Thi Lan Anh</name>
+		<userid>Anhanh</userid>
+		<phone>0123456789</phone>
+		<salary>1500</salary>
+		<address>Ha Noi, Hai Phong, Quang Ninh</address>
+	</employee>
+	<employee id="E07" gender="male">
+		<name>Phan Thi Lan Anh</name>
+		<userid>Anhanh</userid>
+		<phone>0123456789</phone>
+		<salary>1500</salary>
+		<address>Ha Noi, Hai Phong, Quang Ninh</address>
+	</employee>
+	<employee id="E08" gender="male">
+		<name>Phan Thi Lan Anh</name>
+		<userid>Anhanh</userid>
+		<phone>0123456789</phone>
+		<salary>1500</salary>
+		<address>Ha Noi, Hai Phong, Quang Ninh</address>
+	</employee>
+	<employee id="E09" gender="male">
+		<name>Phan Thi Lan Anh</name>
+		<userid>Anhanh</userid>
+		<phone>0123456789</phone>
+		<salary>1500</salary>
+		<address>Ha Noi, Hai Phong, Quang Ninh</address>
+	</employee>
+	<employee id="E10" gender="male">
+		<name>Phan Thi Lan Anh</name>
+		<userid>Anhanh</userid>
+		<phone>0123456789</phone>
+		<salary>1500</salary>
+		<address>Ha Noi, Hai Phong, Quang Ninh</address>
+	</employee>
+</company>

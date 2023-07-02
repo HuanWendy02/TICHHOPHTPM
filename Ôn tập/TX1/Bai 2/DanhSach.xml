@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="DanhSach.xslt"?>
+<DS xmlns="http://tempuri.org/DanhSach.xsd">
+	<congty tenCT="Công ty dược Nam Hà">
+		<donvi madv="a01">
+			<tendv>Phòng tổ chức</tendv>
+			<dienthoai>0323548456</dienthoai>
+			<nhanvien>
+				<manv>tc01</manv>
+				<hoten>Lê Thu Hà</hoten>
+				<ngaysinh>1988-12-23</ngaysinh>
+				<gioitinh>Nữ</gioitinh>
+				<hsluong>2.34</hsluong>
+			</nhanvien>
+			<nhanvien>
+				<manv>tc02</manv>
+				<hoten>Lê Thu Linh</hoten>
+				<ngaysinh>1998-12-24</ngaysinh>
+				<gioitinh>Nữ</gioitinh>
+				<hsluong>2.4</hsluong>
+			</nhanvien>
+			<nhanvien>
+				<manv>tc03</manv>
+				<hoten>Lê Minh Hà</hoten>
+				<ngaysinh>1978-02-23</ngaysinh>
+				<gioitinh>Nam</gioitinh>
+				<hsluong>5.34</hsluong>
+			</nhanvien>
+		</donvi>
+		<donvi madv="a02">
+			<tendv>Phòng kinh doanh</tendv>
+			<dienthoai>0323548478</dienthoai>
+			<nhanvien>
+				<manv>kd01</manv>
+				<hoten>Hoàng Ngọc Linh</hoten>
+				<ngaysinh>1988-10-23</ngaysinh>
+				<gioitinh>Nữ</gioitinh>
+				<hsluong>3</hsluong>
+			</nhanvien>
+			<nhanvien>
+				<manv>kd02</manv>
+				<hoten>Nguyễn Văn Khánh</hoten>
+				<ngaysinh>2000-03-04</ngaysinh>
+				<gioitinh>Nam</gioitinh>
+				<hsluong>6</hsluong>
+			</nhanvien>
+			<nhanvien>
+				<manv>kd03</manv>
+				<hoten>Phan Lan Anh</hoten>
+				<ngaysinh>2002-08-04</ngaysinh>
+				<gioitinh>Nữ</gioitinh>
+				<hsluong>8</hsluong>
+			</nhanvien>
+		</donvi>
+	</congty>
+</DS>

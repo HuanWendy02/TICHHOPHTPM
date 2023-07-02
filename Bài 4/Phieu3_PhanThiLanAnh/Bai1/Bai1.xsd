@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Bai1"
+    targetNamespace="http://tempuri.org/Bai1.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/Bai1.xsd"
+    xmlns:mstns="http://tempuri.org/Bai1.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+	<xs:simpleType name="Diem">
+		<xs:restriction base="xs:double">
+			<xs:maxExclusive value="10"/>
+			<xs:minExclusive value="0"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="XepLoai">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Trung bình"/>
+			<xs:enumeration value="Khá"/>
+			<xs:enumeration value="Giỏi"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:complexType name="MonHoc">
+		<xs:sequence>
+			<xs:element name="STT" type="xs:int"/>
+				<xs:element name="TenMon" type="xs:string"/>
+				<xs:element name="Lan1" type="Diem"/>
+				<xs:element name="Lan2" type="Diem"/>
+				<xs:element name="CaNam" type="Diem"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="BangDiem">
+		<xs:sequence>
+			<xs:element name="Mon" minOccurs="3" maxOccurs="5" type="MonHoc"></xs:element>
+			<xs:element name="TK" type="MonHoc"></xs:element>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="SinhVien">
+		<xs:sequence>
+			<xs:element name="MaSV">
+				<xs:simpleType>
+					<xs:restriction base="xs:integer">
+						<xs:pattern value="\d{8}"></xs:pattern>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:element>
+			<xs:element name="HoTen" type="xs:string"/>
+			<xs:element name="NgaySinh" type="xs:date"/>
+			<xs:element name="Lop" type="xs:string"/>
+			<xs:element name="BangDiem" type="BangDiem"/>
+			<xs:element name="XepLoaiHocLuc" type="XepLoai"/>
+			<xs:element name="XepLoaiHanhKiem" type="XepLoai"/>
+			<xs:element name="GVCN">
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:enumeration value="Trần Mai Linh"/>
+						<xs:enumeration value="Đặng Thị Nhung"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:element>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="KQ">
+		<xs:sequence>
+			<xs:element name="SV" type="SinhVien" maxOccurs="unbounded"></xs:element>
+		</xs:sequence>
+		<xs:attribute name="NamHoc" type="xs:int"></xs:attribute>
+	</xs:complexType>
+	<xs:element name="KQHT" type="KQ"></xs:element>
+</xs:schema>

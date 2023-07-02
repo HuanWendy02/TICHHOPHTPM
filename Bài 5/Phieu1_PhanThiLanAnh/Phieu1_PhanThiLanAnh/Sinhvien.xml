@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="Sinhvien.xslt"?>
+<DS>
+	<SV MaLop="CNTT14">
+		<MaSV>sv01</MaSV>
+		<TenSV>Phan Tuấn Cường</TenSV>
+		<GioiTinh>Nam</GioiTinh>
+		<NgaySinh>03-03-1993</NgaySinh>
+	</SV>
+	<SV MaLop="CNTT14">
+		<MaSV>sv02</MaSV>
+		<TenSV>Huỳnh Chí Tâm</TenSV>
+		<GioiTinh>Nam</GioiTinh>
+		<NgaySinh>08-03-1993</NgaySinh>
+	</SV>
+	<SV MaLop="CNTT14">
+		<MaSV>sv03</MaSV>
+		<TenSV>Vương Chí Dũng</TenSV>
+		<GioiTinh>Nam</GioiTinh>
+		<NgaySinh>14-04-1993</NgaySinh>
+	</SV>
+	<SV MaLop="TCKT14">
+		<MaSV>sv04</MaSV>
+		<TenSV>Phạm Đức Nguyên</TenSV>
+		<GioiTinh>Nam</GioiTinh>
+		<NgaySinh>27-07-1993</NgaySinh>
+	</SV>
+	<SV MaLop="TCKT14">
+		<MaSV>sv05</MaSV>
+		<TenSV>Trương Mỹ Yến Nhi</TenSV>
+		<GioiTinh>Nữ</GioiTinh>
+		<NgaySinh>03-10-1993</NgaySinh>
+	</SV>
+	<SV MaLop="TCKT14">
+		<MaSV>sv05</MaSV>
+		<TenSV>Hồ Võ Thanh Tùng</TenSV>
+		<GioiTinh>Nam</GioiTinh>
+		<NgaySinh>06-09-1990</NgaySinh>
+	</SV>
+</DS>

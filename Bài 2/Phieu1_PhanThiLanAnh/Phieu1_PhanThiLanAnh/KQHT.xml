@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DSSV>
+	<SV>
+		<Hoten>Nguyễn Việt Đức</Hoten>
+		<Ngaysinh>03/05/1997</Ngaysinh>
+		<Lop>KTOM5-K9</Lop>
+		<Monhoc TenMon="Toán">
+			<Lan1>5</Lan1>
+			<Lan2>6</Lan2>
+			<CaNam>8</CaNam>
+		</Monhoc>
+		<Monhoc Tenmon ="Văn"></Monhoc>
+			<Lan1>7</Lan1>
+			<Lan2>8</Lan2>
+			<CaNam>4</CaNam>
+		<Monhoc Tenmon ="Ngoại ngữ"></Monhoc>
+			<Lan1>3</Lan1>
+			<Lan2>5</Lan2>
+			<CaNam>5</CaNam>
+		<Monhoc Tenmon ="Sử"></Monhoc>
+			<Lan1>2</Lan1>
+			<Lan2>5</Lan2>
+			<CaNam>3</CaNam>
+		<Monhoc Tenmon ="Sinh"></Monhoc>
+			<Lan1>8</Lan1>
+			<Lan2>8</Lan2>
+			<CaNam>4</CaNam>
+		<Monhoc Tenmon ="Tổng kết"></Monhoc>
+			<Lan1>6</Lan1>
+			<Lan2>7</Lan2>
+			<CaNam>7</CaNam>
+		<HocLuc>TB</HocLuc>
+		<HanhKiem>Kha</HanhKiem>
+	</SV>
+</DSSV>

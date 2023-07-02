@@ -1,0 +1,10 @@
+D:\Tích hợp hệ thống phần mềm\TX2\Bai1\Bai2\bin\Debug\Bai2.exe.config
+D:\Tích hợp hệ thống phần mềm\TX2\Bai1\Bai2\bin\Debug\Bai2.exe
+D:\Tích hợp hệ thống phần mềm\TX2\Bai1\Bai2\bin\Debug\Bai2.pdb
+D:\Tích hợp hệ thống phần mềm\TX2\Bai1\Bai2\obj\Debug\Bai2.csproj.AssemblyReference.cache
+D:\Tích hợp hệ thống phần mềm\TX2\Bai1\Bai2\obj\Debug\Bai2.Form1.resources
+D:\Tích hợp hệ thống phần mềm\TX2\Bai1\Bai2\obj\Debug\Bai2.Properties.Resources.resources
+D:\Tích hợp hệ thống phần mềm\TX2\Bai1\Bai2\obj\Debug\Bai2.csproj.GenerateResource.cache
+D:\Tích hợp hệ thống phần mềm\TX2\Bai1\Bai2\obj\Debug\Bai2.csproj.CoreCompileInputs.cache
+D:\Tích hợp hệ thống phần mềm\TX2\Bai1\Bai2\obj\Debug\Bai2.exe
+D:\Tích hợp hệ thống phần mềm\TX2\Bai1\Bai2\obj\Debug\Bai2.pdb

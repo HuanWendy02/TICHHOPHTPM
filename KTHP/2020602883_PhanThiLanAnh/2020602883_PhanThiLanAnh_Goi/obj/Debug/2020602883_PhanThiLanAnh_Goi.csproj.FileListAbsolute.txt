@@ -1,0 +1,10 @@
+D:\Tích hợp hệ thống phần mềm\KTHP\2020602883_PhanThiLanAnh\2020602883_PhanThiLanAnh_Goi\bin\Debug\2020602883_PhanThiLanAnh_Goi.exe.config
+D:\Tích hợp hệ thống phần mềm\KTHP\2020602883_PhanThiLanAnh\2020602883_PhanThiLanAnh_Goi\bin\Debug\2020602883_PhanThiLanAnh_Goi.exe
+D:\Tích hợp hệ thống phần mềm\KTHP\2020602883_PhanThiLanAnh\2020602883_PhanThiLanAnh_Goi\bin\Debug\2020602883_PhanThiLanAnh_Goi.pdb
+D:\Tích hợp hệ thống phần mềm\KTHP\2020602883_PhanThiLanAnh\2020602883_PhanThiLanAnh_Goi\obj\Debug\2020602883_PhanThiLanAnh_Goi.csproj.AssemblyReference.cache
+D:\Tích hợp hệ thống phần mềm\KTHP\2020602883_PhanThiLanAnh\2020602883_PhanThiLanAnh_Goi\obj\Debug\_2020602883_PhanThiLanAnh_Goi.Form1.resources
+D:\Tích hợp hệ thống phần mềm\KTHP\2020602883_PhanThiLanAnh\2020602883_PhanThiLanAnh_Goi\obj\Debug\_2020602883_PhanThiLanAnh_Goi.Properties.Resources.resources
+D:\Tích hợp hệ thống phần mềm\KTHP\2020602883_PhanThiLanAnh\2020602883_PhanThiLanAnh_Goi\obj\Debug\2020602883_PhanThiLanAnh_Goi.csproj.GenerateResource.cache
+D:\Tích hợp hệ thống phần mềm\KTHP\2020602883_PhanThiLanAnh\2020602883_PhanThiLanAnh_Goi\obj\Debug\2020602883_PhanThiLanAnh_Goi.csproj.CoreCompileInputs.cache
+D:\Tích hợp hệ thống phần mềm\KTHP\2020602883_PhanThiLanAnh\2020602883_PhanThiLanAnh_Goi\obj\Debug\2020602883_PhanThiLanAnh_Goi.exe
+D:\Tích hợp hệ thống phần mềm\KTHP\2020602883_PhanThiLanAnh\2020602883_PhanThiLanAnh_Goi\obj\Debug\2020602883_PhanThiLanAnh_Goi.pdb

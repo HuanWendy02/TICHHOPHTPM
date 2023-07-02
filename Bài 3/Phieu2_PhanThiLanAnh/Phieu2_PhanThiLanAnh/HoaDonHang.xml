@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="HoaDonHang.xslt"?>
+<BVDK xmlns="http://tempuri.org/HoaDonHang.xsd">
+	<Khoa>
+		<TenKhoa>Khoa Ngoại</TenKhoa>
+		<HoTenTK>Phan Lan Anh</HoTenTK>
+		<Phong>407</Phong>
+		<BenhNhan MaBN="BN01">
+			<HoTen>Hoàng Ngọc Linh</HoTen>
+			<GioiTinh>Nữ</GioiTinh>
+			<NgayNhapVien>2023-03-05</NgayNhapVien>
+			<SoNgayNamVien>5</SoNgayNamVien>
+		</BenhNhan>
+	</Khoa>
+	<Khoa>
+		<TenKhoa>Khoa Nội</TenKhoa>
+		<HoTenTK>Phan Lan Anh</HoTenTK>
+		<Phong>407</Phong>
+		<BenhNhan MaBN="BN02">
+			<HoTen>Hoàng Minh Anh</HoTen>
+			<GioiTinh>Nam</GioiTinh>
+			<NgayNhapVien>2023-04-01</NgayNhapVien>
+			<SoNgayNamVien>8</SoNgayNamVien>
+		</BenhNhan>
+	</Khoa>
+</BVDK>

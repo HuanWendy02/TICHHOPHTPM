@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="Bai2.xslt"?>
+<TienDien>
+	<DauThang>50</DauThang>
+	<CuoiThang>100</CuoiThang>
+</TienDien>

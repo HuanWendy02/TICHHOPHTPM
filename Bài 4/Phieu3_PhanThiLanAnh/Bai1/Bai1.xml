@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="Bai1.xslt"?>
+<KQHT xmlns="http://tempuri.org/Bai1.xsd" NamHoc="2009">
+	<SV>
+		<MaSV>09121111</MaSV>
+		<HoTen>Nguyễn Việt Đức</HoTen>
+		<NgaySinh>1997-03-05</NgaySinh>
+		<Lop>KTPM5-K9</Lop>
+		<BangDiem>
+			<Mon>
+				<STT>1</STT>
+				<TenMon>Toán</TenMon>
+				<Lan1>5</Lan1>
+				<Lan2>6</Lan2>
+				<CaNam>8</CaNam>
+			</Mon>
+			<Mon>
+				<STT>2</STT>
+				<TenMon>Văn</TenMon>
+				<Lan1>7</Lan1>
+				<Lan2>8</Lan2>
+				<CaNam>4</CaNam>
+			</Mon>
+			<Mon>
+				<STT>3</STT>
+				<TenMon>Ngoại Ngữ</TenMon>
+				<Lan1>3</Lan1>
+				<Lan2>5</Lan2>
+				<CaNam>5</CaNam>
+			</Mon>
+			<Mon>
+				<STT>4</STT>
+				<TenMon>Sử</TenMon>
+				<Lan1>2</Lan1>
+				<Lan2>5</Lan2>
+				<CaNam>3</CaNam>
+			</Mon>
+			<Mon>
+				<STT>5</STT>
+				<TenMon>Sinh</TenMon>
+				<Lan1>8</Lan1>
+				<Lan2>8</Lan2>
+				<CaNam>4</CaNam>
+			</Mon>
+			<TK>
+				<STT>6</STT>
+				<TenMon>Sinh</TenMon>
+				<Lan1>6</Lan1>
+				<Lan2>7</Lan2>
+				<CaNam>7</CaNam>
+			</TK>
+		</BangDiem>
+		<XepLoaiHocLuc>Trung bình</XepLoaiHocLuc>
+		<XepLoaiHanhKiem>Khá</XepLoaiHanhKiem>
+		<GVCN>Trần Mai Linh</GVCN>
+	</SV>
+</KQHT>

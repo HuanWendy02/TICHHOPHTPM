@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="BenhNhan.xslt"?>
+<BVDK>
+	<Khoa>
+		<TenKhoa>Ngoại</TenKhoa>
+		<Phong>302</Phong>
+		<BenhNhan MaSoBN="BN01">
+			<HoTen>Nguyễn Tuấn Anh</HoTen>
+			<GioiTinh>Nam</GioiTinh>
+			<NgayNhapVien>2017-01-01</NgayNhapVien>
+			<NgayDieuTri>2</NgayDieuTri>
+		</BenhNhan>
+		<BenhNhan MaSoBN="BN02">
+			<HoTen>Nguyễn Minh Anh</HoTen>
+			<GioiTinh>Nữ</GioiTinh>
+			<NgayNhapVien>2017-02-01</NgayNhapVien>
+			<NgayDieuTri>5</NgayDieuTri>
+		</BenhNhan>
+	</Khoa>
+	<Khoa>
+		<TenKhoa>Nội</TenKhoa>
+		<Phong>305</Phong>
+		<BenhNhan MaSoBN="BN03">
+			<HoTen>Hoàng Tuấn Anh</HoTen>
+			<GioiTinh>Nam</GioiTinh>
+			<NgayNhapVien>2018-01-01</NgayNhapVien>
+			<NgayDieuTri>4</NgayDieuTri>
+		</BenhNhan>
+		<BenhNhan MaSoBN="BN04">
+			<HoTen>Lê Minh Anh</HoTen>
+			<GioiTinh>Nữ</GioiTinh>
+			<NgayNhapVien>2018-02-01</NgayNhapVien>
+			<NgayDieuTri>5</NgayDieuTri>
+		</BenhNhan>
+	</Khoa>
+</BVDK>

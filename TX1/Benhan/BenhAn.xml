@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="BenhAn.xslt"?>
+<QLBA xmlns="http://tempuri.org/BenhAn.xsd">
+	<Khoa ID="T01" TruongKhoa="Tôn Thất Bách">
+		<TenKhoa>Khoa tai mũi họng</TenKhoa>
+		<BenhNhan>
+			<HoTen>Trần Văn Kiên</HoTen>
+			<GioiTinh>Nam</GioiTinh>
+			<SoNgayNamVien>12</SoNgayNamVien>
+		</BenhNhan>
+	</Khoa>
+	
+</QLBA>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="student.xslt"?>
+<class>
+	<student rollno="123">
+		<firstname>Phan</firstname>
+		<lastname>Thi</lastname>
+		<nickname>Lan Anh</nickname>
+		<marks>85</marks>
+	</student>
+	<student rollno="456">
+		<firstname>Phan</firstname>
+		<lastname>Anh</lastname>
+		<nickname>Hoang</nickname>
+		<marks>95</marks>
+	</student>
+	<student rollno="789">
+		<firstname>Phan</firstname>
+		<lastname>Linh</lastname>
+		<nickname>Ngoc</nickname>
+		<marks>55</marks>
+	</student>
+</class>

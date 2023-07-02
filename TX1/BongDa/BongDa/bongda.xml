@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="bongda.xslt"?>
+<bongda>
+	<cauthu>
+		<hoten>David Beckham</hoten>
+		<ghiban>250</ghiban>
+		<sosut>300</sosut>
+		<cohoi>70</cohoi>
+	</cauthu>
+	<cauthu>
+		<hoten>Jose Mourinho</hoten>
+		<ghiban>0</ghiban>
+		<sosut>250</sosut>
+		<cohoi>490</cohoi>
+	</cauthu>
+	<cauthu>
+		<hoten>Donal Trump</hoten>
+		<ghiban>200</ghiban>
+		<sosut>250</sosut>
+		<cohoi>49</cohoi>
+	</cauthu>
+</bongda>

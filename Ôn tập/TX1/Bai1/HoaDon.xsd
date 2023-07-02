@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="HoaDon"
+    targetNamespace="http://tempuri.org/HoaDon.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/HoaDon.xsd"
+    xmlns:mstns="http://tempuri.org/HoaDon.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+	<xs:element name="DS">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="HoaDon" maxOccurs="4">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="MaHD" type="xs:string" maxOccurs="4"></xs:element>
+							<xs:element name="NgayBan" type="xs:date"></xs:element>
+							<xs:element name="LoaiHang" maxOccurs="10">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="Hang" maxOccurs="unbounded">
+											<xs:complexType>
+												<xs:sequence>
+													<xs:element name="TenHang" type="xs:string"></xs:element>
+													<xs:element name="SoLuong" type="xs:integer"></xs:element>
+													<xs:element name="DonViTinh">
+														<xs:simpleType>
+															<xs:restriction base="xs:string">
+																<xs:enumeration value="Gói"/>
+																<xs:enumeration value="Hộp"/>
+																<xs:enumeration value="Chiếc"/>
+															</xs:restriction>
+														</xs:simpleType>
+													</xs:element>
+													<xs:element name="DonGia">
+														<xs:simpleType>
+															<xs:restriction base="xs:decimal">
+																<xs:minExclusive value="1"/>
+															</xs:restriction>
+														</xs:simpleType>
+													</xs:element>
+												</xs:sequence>
+												<xs:attribute name="MaHang">
+													<xs:simpleType>
+														<xs:restriction base="xs:string">
+															<xs:pattern value="\d{6}"></xs:pattern>
+														</xs:restriction>
+													</xs:simpleType>
+												</xs:attribute>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+									<xs:attribute name="MaLoai" type="xs:ID"></xs:attribute>
+									<xs:attribute name="TenLoai" type="xs:string"></xs:attribute>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

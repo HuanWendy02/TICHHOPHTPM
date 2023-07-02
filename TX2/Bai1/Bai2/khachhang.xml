@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ds>
+  <khachhang makh="101">
+    <hoten>Ngọc Mai</hoten>
+    <diachi>Hà Nội</diachi>
+    <sdt>Hà Nội</sdt>
+  </khachhang>
+  <khachhang makh="102">
+    <hoten>Lan Anh</hoten>
+    <diachi>Thái Bình</diachi>
+    <sdt>0214563978</sdt>
+  </khachhang>
+  <khachhang makh="103">
+    <hoten>Mạnh Tùng</hoten>
+    <diachi>Hà Nam</diachi>
+    <sdt>0395489625</sdt>
+  </khachhang>
+  <khachhang makh="104">
+    <hoten>Khánh Minh</hoten>
+    <diachi>Minh Khai</diachi>
+    <sdt>0147852369</sdt>
+  </khachhang>
+</ds>
